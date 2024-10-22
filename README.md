@@ -8,4 +8,6 @@ Lab - 03 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/AIML_LAB
 
 Lab - 05 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/lab_5_logistic_regression.ipynb
 
+Lab - 06 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/KNN_lab_6.ipynb
+
 Lab - 07 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/SVM.
