@@ -12,4 +12,4 @@ Lab - 05 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/lab_5_lo
 
 Lab - 06 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/KNN_lab_6.ipynb
 
-Lab - 07 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/SVM.
+Lab - 07 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/SVM_LAB_07.ipynb
