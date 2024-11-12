@@ -17,3 +17,5 @@ Lab - 07 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/SVM_LAB_
 LAB - 08 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/AIML_LAB_08.ipynb
 
 LAB - 09 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/LAB_9.ipynb
+
+LAB - 10 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/lab_10.ipynb
