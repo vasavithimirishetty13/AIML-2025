@@ -15,3 +15,5 @@ Lab - 06 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/KNN_lab_
 Lab - 07 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/SVM_LAB_07.ipynb
 
 LAB - 08 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/AIML_LAB_08.ipynb
+
+LAB - 09 - https://github.com/vasavithimirishetty13/AIML-2025/blob/main/LAB_9.ipynb
